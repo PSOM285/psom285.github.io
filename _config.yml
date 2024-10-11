@@ -6,12 +6,12 @@ author:
 description: >
   Ich bin einer freier Journalist, BLABLA
 
-theme: minima
+theme: minimal
 
 
 show_excerpts: false
 
-minima:
+minimal:
   skin: classic
   
   date_format: "%b-%d-%Y"
