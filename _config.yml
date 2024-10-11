@@ -7,7 +7,6 @@ description: >
   Ich bin einer freier Journalist, BLABLA
 
 theme: minima
-  remote_theme: jekyll/minima
 
 
 show_excerpts: false
