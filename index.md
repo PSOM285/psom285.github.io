@@ -2,4 +2,4 @@
 
 Hier ist mein Foto
 
-![Mein Foto](images/Bewerbungsfoto Merlin Wassermann.jpeg)
+![Mein Foto](images/Bewerbungsfoto Merlin Wassermann_Zugeschnitten.jpeg)
