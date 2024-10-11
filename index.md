@@ -1,5 +1,4 @@
-# Willkommen auf meiner Website!
-
-Hier ist mein Foto
+# Merlin Wassermann
+Freier Journalist
 
 ![Mein Foto](images/Bewerbungsfoto Merlin Wassermann_Zugeschnitten.jpeg)
