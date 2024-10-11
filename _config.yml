@@ -1,15 +1,1 @@
-email: merlin.wassermann@gmail.com
-
-description: >
-  Ich bin einer freier Journalist, BLABLA
-
-theme: minimal
-
-
-show_excerpts: false
-
-minimal:
-  skin: classic
-  
-  date_format: "%b-%d-%Y"
-
+theme: jekyll-theme-al-folio
